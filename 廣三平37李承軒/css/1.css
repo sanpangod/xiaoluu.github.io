@@ -1,0 +1,20 @@
+@charset "utf-8";
+#card{
+	width: 320px;
+	height: 480px;
+	border-radius: 20px;
+	background-color: #7A89FF;
+	margin: auto;
+	padding: 10px;
+	positon: relative;
+}
+#pic{
+	width:200px;
+	height:200px;
+	margin:auto;
+	overflow:hidden;
+}
+#words{
+	width:50%;
+	margin:auto;
+}
